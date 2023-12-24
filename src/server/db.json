@@ -1,0 +1,19 @@
+{
+    "status": {
+        "block": {
+            "height": 4650
+        }
+    },
+    "players": {
+        "cosmos1u0jj2ucmggr730mn0vda45nu00dsejmqctug7p": {
+            "gameIds": []
+        }
+    },
+    "games": {
+        "1": {
+            "redAddress": "cosmos1u0jj2ucmggr730mn0vda45nu00dsejmqctug7p",
+            "blackAddress": "cosmos1u0jj2ucmggr730mn0vda45nu00dsejmqctug7p",
+            "deleted": true
+        }
+    }
+}
